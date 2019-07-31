@@ -1,8 +1,12 @@
 
-Group Members
-Maddy 
-Godday Ogbo
-Bamidele Funminiyi 
+Group Members:
+
+Maddy ,
+
+Godday Ogbo,
+
+Bamidele Funminiyi ,
+
 Andy Fernandez
 
 Scope of Steam Video Game Data
